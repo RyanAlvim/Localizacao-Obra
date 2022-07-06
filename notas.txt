@@ -1,0 +1,8 @@
+ARRUMAR O "ON" -> FEITO
+Obrigar a responder Todas -> FEITO
+Arrumar Data -> FEITO
+
+Passar Imagem para Sankhya (Download e Upload) => Passar Link -> FEITO
+Arrumar Erro (Tratar) -> FEITO
+
+Arrumar o Filtro -> FAZER
